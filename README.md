@@ -1,4 +1,4 @@
-# Code and data of multi-mode radial basis functions-assisted evolutionary algorithm (MMRAEA)
+# Multi-mode radial basis functions-assisted evolutionary algorithm (MMRAEA)
 
 If you find the work is helpful, please cite the following paper:
 
